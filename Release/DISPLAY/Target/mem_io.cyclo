@@ -1,0 +1,14 @@
+../DISPLAY/Target/mem_io.c:676:16:MEM_IO_Init	1
+../DISPLAY/Target/mem_io.c:692:16:MEM_IO_DeInit	1
+../DISPLAY/Target/mem_io.c:85:9:BSP_MEM_Init	8
+../DISPLAY/Target/mem_io.c:113:9:BSP_MEM_DeInit	3
+../DISPLAY/Target/mem_io.c:145:9:BSP_MEM_BlockErase	4
+../DISPLAY/Target/mem_io.c:184:9:BSP_MEM_ChipErase	4
+../DISPLAY/Target/mem_io.c:226:9:BSP_MEM_ReadData	4
+../DISPLAY/Target/mem_io.c:268:9:BSP_MEM_ReadDataDMA	4
+../DISPLAY/Target/mem_io.c:308:9:BSP_MEM_WriteData	23
+../DISPLAY/Target/mem_io.c:471:9:BSP_MEM_WriteDataDMA	10
+../DISPLAY/Target/mem_io.c:531:9:BSP_MEM_EnableMemoryMappedMode	4
+../DISPLAY/Target/mem_io.c:570:9:BSP_MEM_GetTransferStatus	1
+../DISPLAY/Target/mem_io.c:581:6:BSP_MEM_WaitForTransferToBeDone	2
+../DISPLAY/Target/mem_io.c:593:13:BSP_MEM_SignalTransferDone	1

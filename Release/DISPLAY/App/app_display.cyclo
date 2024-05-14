@@ -1,0 +1,8 @@
+../DISPLAY/App/app_display.c:219:16:BSP_LCD_GetPixelFormat	2
+../DISPLAY/App/app_display.c:159:16:BSP_LCD_FillRect	5
+../DISPLAY/App/app_display.c:236:16:BSP_LCD_FillRGBRect2	1
+../DISPLAY/App/app_display.c:353:13:Display_Image	3
+../DISPLAY/App/app_display.c:246:13:Display_DemoDescription	2
+../DISPLAY/App/app_display.c:428:6:MX_DISPLAY_Init	14
+../DISPLAY/App/app_display.c:470:6:MX_DISPLAY_Process	37
+../DISPLAY/App/app_display.c:653:6:BSP_LCD_SignalTearingEffectEvent	4
